@@ -1,2 +1,2 @@
 # Apple-clone]
-# You can check out the website on https://stupendous-piroshki-f70e57.netlify.app/
+# You can check out the website on https://appleap23.netlify.app/
